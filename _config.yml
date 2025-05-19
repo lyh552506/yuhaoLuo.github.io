@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "./images/self.png"
+  name             : "Yuhao Luo (Irie Haisenburg)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "I am a 3-th year undergraduate at University of Electronic Science and Technology of China (UESTC), I am looking for a direct-PhD position in MLSYS/AI-compiler. Aiming to contribute to innovative and impactful projects with like-minded people."
+  location         : "Peking, China"
+  employer         : "UESTC"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "luoyuhao584@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
